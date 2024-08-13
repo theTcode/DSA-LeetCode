@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+// APPROACH-1
 class Solution {
     private int k=0;
     private int ans;
@@ -37,5 +39,31 @@ class Solution {
         }
 
         helper(node.right);
+    }
+}
+
+// APPROACH-2
+
+class Solution {
+    public int kthSmallest(TreeNode root, int k) {
+        Queue<Integer> queue = new LinkedList<>();
+        helper(root, queue, k); 
+
+        int ans =0;
+        for(int i=0;i<k;i++){
+            ans = queue.poll();
+        }
+        return ans;
+    }
+    private void helper(TreeNode node, Queue<Integer> queue, int k){
+        if(node == null){
+            return;
+        }
+
+        helper(node.left, queue, k);
+        
+        queue.offer(node.val);
+
+        helper(node.right, queue, k);
     }
 }
