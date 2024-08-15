@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theTcode/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/theTcode/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/theTcode/DSA-LeetCode/tree/master/0307-range-sum-query-mutable) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/theTcode/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
