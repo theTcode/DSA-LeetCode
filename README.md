@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/theTcode/DSA-LeetCode/tree/master/0086-partition-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/theTcode/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
