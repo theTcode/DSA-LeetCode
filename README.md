@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/theTcode/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/theTcode/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/theTcode/DSA-LeetCode/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/theTcode/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/theTcode/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/theTcode/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/theTcode/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/theTcode/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
