@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theTcode/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/theTcode/DSA-LeetCode/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/theTcode/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0874-backspace-string-compare](https://github.com/theTcode/DSA-LeetCode/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/theTcode/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/theTcode/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/theTcode/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/theTcode/DSA-LeetCode/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/theTcode/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/theTcode/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Binary Search Tree
 |  |
