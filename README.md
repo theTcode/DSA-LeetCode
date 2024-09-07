@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theTcode/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/theTcode/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/theTcode/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/theTcode/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -182,10 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/theTcode/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/theTcode/DSA-LeetCode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/theTcode/DSA-LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
