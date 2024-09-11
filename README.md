@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/theTcode/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/theTcode/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/theTcode/DSA-LeetCode/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/theTcode/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/theTcode/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/theTcode/DSA-LeetCode/tree/master/0198-house-robber) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/theTcode/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/theTcode/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Randomized
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/theTcode/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/theTcode/DSA-LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/theTcode/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/theTcode/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
