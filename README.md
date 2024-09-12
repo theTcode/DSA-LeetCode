@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/theTcode/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/theTcode/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/theTcode/DSA-LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/theTcode/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theTcode/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/theTcode/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/theTcode/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/theTcode/DSA-LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/theTcode/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/theTcode/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
