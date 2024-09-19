@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/theTcode/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/theTcode/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/theTcode/DSA-LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/theTcode/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/theTcode/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theTcode/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/theTcode/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/theTcode/DSA-LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/theTcode/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/theTcode/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/theTcode/DSA-LeetCode/tree/master/0322-coin-change) |
