@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theTcode/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/theTcode/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/theTcode/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/theTcode/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/theTcode/DSA-LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/theTcode/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/theTcode/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/theTcode/DSA-LeetCode/tree/master/0053-maximum-subarray) |
@@ -259,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/theTcode/DSA-LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/theTcode/DSA-LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
