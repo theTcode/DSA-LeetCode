@@ -1,5 +1,6 @@
 class Solution {
     public int maxProfit(int k, int[] prices) {
+        //It is same as the problem "best-time-to-buy-and-sell-stock-iii" with just a minor difference in Number-of-Transactions
         int n = prices.length;
         int[][][] dp = new int[n+1][2][k+1];
         for(int ind=n-1;ind>=0;ind--){
