@@ -319,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/theTcode/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/theTcode/DSA-LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
