@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0874-backspace-string-compare](https://github.com/theTcode/DSA-LeetCode/tree/master/0874-backspace-string-compare) |
+| [2411-spiral-matrix-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Array
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/theTcode/DSA-LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/theTcode/DSA-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2411-spiral-matrix-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/theTcode/DSA-LeetCode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/theTcode/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/theTcode/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/theTcode/DSA-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [2411-spiral-matrix-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Randomized
 |  |
 | ------- |
