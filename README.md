@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/theTcode/DSA-LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/theTcode/DSA-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2411-spiral-matrix-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [3427-special-array-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/theTcode/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/theTcode/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3427-special-array-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3427-special-array-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/theTcode/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/theTcode/DSA-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [3427-special-array-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
