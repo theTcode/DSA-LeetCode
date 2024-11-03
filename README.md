@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/theTcode/DSA-LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/theTcode/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/theTcode/DSA-LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/theTcode/DSA-LeetCode/tree/master/0874-backspace-string-compare) |
 | [1129-longest-string-chain](https://github.com/theTcode/DSA-LeetCode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/theTcode/DSA-LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -368,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/theTcode/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/theTcode/DSA-LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
