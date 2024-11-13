@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theTcode/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/theTcode/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/theTcode/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/theTcode/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/theTcode/DSA-LeetCode/tree/master/0307-range-sum-query-mutable) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/theTcode/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/theTcode/DSA-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/theTcode/DSA-LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/theTcode/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/theTcode/DSA-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/theTcode/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/theTcode/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/theTcode/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/theTcode/DSA-LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/theTcode/DSA-LeetCode/tree/master/0312-burst-balloons) |
