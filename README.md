@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/theTcode/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/theTcode/DSA-LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/theTcode/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/theTcode/DSA-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/theTcode/DSA-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/theTcode/DSA-LeetCode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/theTcode/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/theTcode/DSA-LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/theTcode/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/theTcode/DSA-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/theTcode/DSA-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/theTcode/DSA-LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/theTcode/DSA-LeetCode/tree/master/1073-number-of-enclaves) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/theTcode/DSA-LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/theTcode/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/theTcode/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/theTcode/DSA-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/theTcode/DSA-LeetCode/tree/master/1073-number-of-enclaves) |
 ## Memoization
 |  |
@@ -416,4 +419,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/theTcode/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/theTcode/DSA-LeetCode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
