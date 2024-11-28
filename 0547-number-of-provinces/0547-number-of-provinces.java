@@ -10,7 +10,7 @@ class Solution {
             for(int j=0;j<n;j++){
                 if(isConnected[i][j] == 1 && i!=j){
                     adjLs.get(i).add(j);
-                    adjLs.get(j).add(i);
+                    //adjLs.get(j).add(i);
                 }
             }
         }
