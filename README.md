@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/theTcode/DSA-LeetCode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/theTcode/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0874-backspace-string-compare](https://github.com/theTcode/DSA-LeetCode/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/theTcode/DSA-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/theTcode/DSA-LeetCode/tree/master/1129-longest-string-chain) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/theTcode/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/theTcode/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0633-sum-of-square-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/theTcode/DSA-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [3427-special-array-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/theTcode/DSA-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/theTcode/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0633-sum-of-square-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
