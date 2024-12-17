@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/theTcode/DSA-LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/theTcode/DSA-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2411-spiral-matrix-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2448-count-number-of-bad-pairs](https://github.com/theTcode/DSA-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3427-special-array-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/theTcode/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/theTcode/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1129-longest-string-chain](https://github.com/theTcode/DSA-LeetCode/tree/master/1129-longest-string-chain) |
+| [2448-count-number-of-bad-pairs](https://github.com/theTcode/DSA-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/theTcode/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/theTcode/DSA-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -462,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/theTcode/DSA-LeetCode/tree/master/0204-count-primes) |
+## Counting
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/theTcode/DSA-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
