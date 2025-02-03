@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/theTcode/DSA-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2411-spiral-matrix-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/theTcode/DSA-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/theTcode/DSA-LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/theTcode/DSA-LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
