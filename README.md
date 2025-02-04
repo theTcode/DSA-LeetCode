@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/theTcode/DSA-LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/theTcode/DSA-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/theTcode/DSA-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2411-spiral-matrix-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/theTcode/DSA-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/theTcode/DSA-LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
