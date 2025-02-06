@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/theTcode/DSA-LeetCode/tree/master/1129-longest-string-chain) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1364-tuple-with-same-product](https://github.com/theTcode/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/theTcode/DSA-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/theTcode/DSA-LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/theTcode/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/theTcode/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1129-longest-string-chain](https://github.com/theTcode/DSA-LeetCode/tree/master/1129-longest-string-chain) |
+| [1364-tuple-with-same-product](https://github.com/theTcode/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/theTcode/DSA-LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/theTcode/DSA-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Prefix Sum
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/theTcode/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/theTcode/DSA-LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/theTcode/DSA-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Merge Sort
