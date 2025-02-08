@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/theTcode/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/theTcode/DSA-LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/theTcode/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2434-design-a-number-container-system](https://github.com/theTcode/DSA-LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Binary Tree
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/theTcode/DSA-LeetCode/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/theTcode/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/theTcode/DSA-LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/theTcode/DSA-LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/theTcode/DSA-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Prefix Sum
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/theTcode/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2434-design-a-number-container-system](https://github.com/theTcode/DSA-LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -492,4 +495,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/theTcode/DSA-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2434-design-a-number-container-system](https://github.com/theTcode/DSA-LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
