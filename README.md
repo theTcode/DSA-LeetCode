@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/theTcode/DSA-LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/theTcode/DSA-LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/theTcode/DSA-LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/theTcode/DSA-LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2580-circular-sentence](https://github.com/theTcode/DSA-LeetCode/tree/master/2580-circular-sentence) |
 | [3447-clear-digits](https://github.com/theTcode/DSA-LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/theTcode/DSA-LeetCode/tree/master/3451-string-compression-iii) |
@@ -128,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/theTcode/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/theTcode/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/theTcode/DSA-LeetCode/tree/master/0874-backspace-string-compare) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/theTcode/DSA-LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/theTcode/DSA-LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0874-backspace-string-compare](https://github.com/theTcode/DSA-LeetCode/tree/master/0874-backspace-string-compare) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/theTcode/DSA-LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2411-spiral-matrix-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3447-clear-digits](https://github.com/theTcode/DSA-LeetCode/tree/master/3447-clear-digits) |
 ## Array
