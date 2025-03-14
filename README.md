@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/theTcode/DSA-LeetCode/tree/master/1129-longest-string-chain) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/theTcode/DSA-LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/theTcode/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/theTcode/DSA-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1477-product-of-the-last-k-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/theTcode/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0633-sum-of-square-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/theTcode/DSA-LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/theTcode/DSA-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/theTcode/DSA-LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3427-special-array-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3427-special-array-ii) |
