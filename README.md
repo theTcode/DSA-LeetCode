@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/theTcode/DSA-LeetCode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/theTcode/DSA-LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/theTcode/DSA-LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/theTcode/DSA-LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/theTcode/DSA-LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/theTcode/DSA-LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/theTcode/DSA-LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3001-apply-operations-to-maximize-score](https://github.com/theTcode/DSA-LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/theTcode/DSA-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/theTcode/DSA-LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/theTcode/DSA-LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/theTcode/DSA-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/theTcode/DSA-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3001-apply-operations-to-maximize-score](https://github.com/theTcode/DSA-LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/theTcode/DSA-LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/theTcode/DSA-LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/theTcode/DSA-LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/theTcode/DSA-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/theTcode/DSA-LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/theTcode/DSA-LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/theTcode/DSA-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/theTcode/DSA-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/theTcode/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/theTcode/DSA-LeetCode/tree/master/0739-daily-temperatures) |
+| [3001-apply-operations-to-maximize-score](https://github.com/theTcode/DSA-LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Matrix
 |  |
 | ------- |
@@ -543,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/theTcode/DSA-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/theTcode/DSA-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/theTcode/DSA-LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/theTcode/DSA-LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
 | ------- |
@@ -615,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/theTcode/DSA-LeetCode/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/theTcode/DSA-LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/theTcode/DSA-LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting
 |  |
 | ------- |
