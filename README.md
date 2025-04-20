@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/theTcode/DSA-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/theTcode/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/theTcode/DSA-LeetCode/tree/master/0739-daily-temperatures) |
+| [0797-rabbits-in-forest](https://github.com/theTcode/DSA-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0875-longest-mountain-in-array](https://github.com/theTcode/DSA-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/theTcode/DSA-LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/theTcode/DSA-LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/theTcode/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/theTcode/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/theTcode/DSA-LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/theTcode/DSA-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/theTcode/DSA-LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/theTcode/DSA-LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1129-longest-string-chain](https://github.com/theTcode/DSA-LeetCode/tree/master/1129-longest-string-chain) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/theTcode/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0797-rabbits-in-forest](https://github.com/theTcode/DSA-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/theTcode/DSA-LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/theTcode/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/theTcode/DSA-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/theTcode/DSA-LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/theTcode/DSA-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/theTcode/DSA-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/theTcode/DSA-LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/theTcode/DSA-LeetCode/tree/master/2681-put-marbles-in-bags) |
