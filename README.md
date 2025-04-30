@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/theTcode/DSA-LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/theTcode/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/theTcode/DSA-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/theTcode/DSA-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1559-cherry-pickup-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/theTcode/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/theTcode/DSA-LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/theTcode/DSA-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/theTcode/DSA-LeetCode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
