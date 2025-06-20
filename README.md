@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/theTcode/DSA-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/theTcode/DSA-LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/theTcode/DSA-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Tree
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/theTcode/DSA-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/theTcode/DSA-LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/theTcode/DSA-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/theTcode/DSA-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/theTcode/DSA-LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/theTcode/DSA-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/theTcode/DSA-LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/theTcode/DSA-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/theTcode/DSA-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Merge Sort
 |  |
 | ------- |
