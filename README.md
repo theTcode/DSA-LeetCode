@@ -718,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/theTcode/DSA-LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/theTcode/DSA-LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/theTcode/DSA-LeetCode/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/theTcode/DSA-LeetCode/tree/master/1341-movie-rating) |
 | [1908-recyclable-and-low-fat-products](https://github.com/theTcode/DSA-LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Enumeration
 |  |
