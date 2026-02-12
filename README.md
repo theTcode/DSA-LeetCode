@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/theTcode/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/theTcode/DSA-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/theTcode/DSA-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/theTcode/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/theTcode/DSA-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1559-cherry-pickup-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/theTcode/DSA-LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
