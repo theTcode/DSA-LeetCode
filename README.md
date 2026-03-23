@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/theTcode/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/theTcode/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/theTcode/DSA-LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/theTcode/DSA-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/theTcode/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/theTcode/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/theTcode/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/theTcode/DSA-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/theTcode/DSA-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/theTcode/DSA-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/theTcode/DSA-LeetCode/tree/master/2478-longest-nice-subarray) |
