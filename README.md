@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/theTcode/DSA-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/theTcode/DSA-LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3360-stone-removal-game](https://github.com/theTcode/DSA-LeetCode/tree/master/3360-stone-removal-game) |
 | [3447-clear-digits](https://github.com/theTcode/DSA-LeetCode/tree/master/3447-clear-digits) |
 ## Array
 |  |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/theTcode/DSA-LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/theTcode/DSA-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/theTcode/DSA-LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3360-stone-removal-game](https://github.com/theTcode/DSA-LeetCode/tree/master/3360-stone-removal-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/theTcode/DSA-LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/theTcode/DSA-LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/theTcode/DSA-LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
